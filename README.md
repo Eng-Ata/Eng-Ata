@@ -17,7 +17,4 @@
 <br><br>
 </div>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Eng-Ata&label=Profile%20Views&color=6&icon=9&pretty=true" />
-</a>
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Eng-Ata)

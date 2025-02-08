@@ -6,15 +6,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-ata2003)
 # 💻 My Skill:
 <div style="display: flex; align-items: flex-start; align: center">
-<table>
-    <tr>
-        <td align="center" width="150">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
-            <br>Python
-        </td>
-    </tr>
-</table>
-<br><br>
-</div>
+    <table>
+        <tr>
+            <td align="center" width="150">
+                <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+                <br>Python
+            </td>
+            <td align="center" width="150">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="c" />
+            <br>C++
+        </td> 
+        </tr>
+    </table>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Eng-Ata)

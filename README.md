@@ -5,6 +5,8 @@
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-ata2003)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/34699889)
+
 
 # 💻 My Skills:
 <div style="display: flex; align-items: flex-start; align: center">
